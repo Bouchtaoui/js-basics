@@ -12,16 +12,23 @@ const PI = 3.14159; // PI verandert niet, dus een constante!
 -80, -3, 0, 1, 13, 167 // Deze zijn integers (oftewel hele getallen)
 // Voorbeeld
 let aantal_items = 75;
-print("Aantal items is: ", aantal_items);
+console.log("Aantal items is: ", aantal_items);
 
 -67.54, 0.012, 2.30, 4.563278 // Deze zijn floats (getallen met drijvende komma's)
+// Voorbeeld
 let gewicht = 73.50;
-print("Mijn gewicht is: ", gewicht);
+console.log("Mijn gewicht is: ", gewicht);
 
 "g", "Voer uw naam in: ", "21/03/2022" // Deze zijn strings
+// Voorbeeld
 let organisatie = "ROC Mondriaan";
-print("Aantal items is: ", organisatie);
+console.log("Organisatie: ", organisatie);
+
 
 true, false // booleans, dus waar of niet waar
+// Voorbeeld
 let is_geregistreerd = false;
-print("Bent u geregistreerd?: ", is_geregistreerd);
+console.log("Bent u geregistreerd?: ", is_geregistreerd);
+
+
+
