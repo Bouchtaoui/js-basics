@@ -1,5 +1,5 @@
 // Vroeger werd een variabele gedeclareerd met 'var'
-var naam = "Johan"; // <-- var niet meer gebruiken!
+//var naam = "Johan"; // <-- var niet meer gebruiken!
 
 // Correcte manier
 let naam = "Johan"; // <-- dit is de juiste manier!
