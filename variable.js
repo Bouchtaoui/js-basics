@@ -1,11 +1,17 @@
+
+// 1. Declaratie variable zonder beginwaarde
+let achternnaam;
+let prijs_brood;
+
 // Vroeger werd een variabele gedeclareerd met 'var'
 //var naam = "Johan"; // <-- var niet meer gebruiken!
 
-// Correcte manier
+// 2. Declaratie variabele met een beginwaarde
 let naam = "Johan"; // <-- dit is de juiste manier!
 
+// Bij constante geef je één keer een waarde en dan mag je het niet meer veranderen
 const versie = "1.0.0"; // <-- dit is een constante
-const PI = 3.14159; // PI verandert niet, dus een constante!
+const PI = 3.1416; // PI verandert niet, dus een constante!
 
 
 // type variabelen:
